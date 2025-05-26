@@ -8,39 +8,39 @@ const Menu = () => {
       name: 'Margherita',
       description: 'Salsa de tomate, mozzarella fresca, albahaca, aceite de oliva extra virgen',
       price: '€12.50',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80',
+      image: 'https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=500&q=80',
       popular: true
     },
     {
       name: 'Pepperoni Clásica',
       description: 'Salsa de tomate, mozzarella, pepperoni italiano, orégano',
       price: '€14.00',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80'
+      image: 'https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=500&q=80'
     },
     {
       name: 'Quattro Stagioni',
       description: 'Salsa de tomate, mozzarella, jamón, champiñones, alcachofas, aceitunas',
       price: '€16.50',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80'
+      image: 'https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?auto=format&fit=crop&w=500&q=80'
     },
     {
       name: 'Prosciutto e Funghi',
       description: 'Salsa de tomate, mozzarella, jamón de Parma, champiñones frescos',
       price: '€15.00',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80',
+      image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?auto=format&fit=crop&w=500&q=80',
       popular: true
     },
     {
       name: 'Diavola',
       description: 'Salsa de tomate, mozzarella, salami picante, aceite de chile',
       price: '€14.50',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80'
+      image: 'https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?auto=format&fit=crop&w=500&q=80'
     },
     {
       name: 'Quattro Formaggi',
       description: 'Mozzarella, gorgonzola, parmesano, ricotta, miel de trufa',
       price: '€17.00',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=500&q=80'
+      image: 'https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=500&q=80'
     }
   ];
 

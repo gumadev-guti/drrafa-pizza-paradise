@@ -9,7 +9,7 @@ const About = () => {
           {/* Image */}
           <div className="animate-fade-in">
             <img
-              src="https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&w=800&q=80"
+              src="https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80"
               alt="Pizzaiolo preparando pizza"
               className="w-full h-96 object-cover rounded-lg shadow-lg"
             />
